@@ -1,0 +1,22 @@
+{
+  "name": "zabbix-console-wrapper",
+  "version": "1.0.0",
+  "description": "This module wraps the node-zabbix-sender functionality overloading the console methods.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CarlosRCS9/zabbix-console-wrapper.git"
+  },
+  "keywords": [
+    "Zabbix"
+  ],
+  "author": "Carlos Rodrigo Castillo Sánchez",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/CarlosRCS9/zabbix-console-wrapper/issues"
+  },
+  "homepage": "https://github.com/CarlosRCS9/zabbix-console-wrapper#readme"
+}
