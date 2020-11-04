@@ -18,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/CarlosRCS9/zabbix-console-wrapper/issues"
   },
-  "homepage": "https://github.com/CarlosRCS9/zabbix-console-wrapper#readme"
+  "homepage": "https://github.com/CarlosRCS9/zabbix-console-wrapper#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "node-zabbix-sender": "^1.1.0"
+  }
 }
