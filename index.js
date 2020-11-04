@@ -19,4 +19,9 @@ const newConsole = Object.keys(oldConsole).reduce((newConsole, key) => {
 
 console = newConsole;
 
+exports.printMsg = () => {
+  oldConsole.log("The console has been overloaded.");
+}
+
 module.exports = { Sender };
+
